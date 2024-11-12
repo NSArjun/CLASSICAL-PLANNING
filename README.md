@@ -1,4 +1,8 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+
+<h3>Name: ARJUN N S      </h3>
+<h3>Register Number: 212223230020</h3>
+
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
@@ -49,8 +53,6 @@ print(plan)
 
 ## Program:
 ```
-Name: Abdullah R 
-Register Number: 212223230004
 
 def is_goal_state(current_state, goal_state):
     return current_state == goal_state
